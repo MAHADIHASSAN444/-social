@@ -1,0 +1,12 @@
+.postTitle{
+    border: 2px solid gray;
+    border-radius: 5px;
+    padding-bottom: 10px;
+    padding-left:10px;
+    margin-left: 20px;
+    margin-right:20px;
+    background-color: lightslategray;
+}
+body{
+    background-color: cyan;
+}
